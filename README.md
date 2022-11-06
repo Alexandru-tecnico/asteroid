@@ -12,3 +12,6 @@ To shoot it is enough to left-click with the mouse.
 Balls (asteroids) appear from the top, with frequency increasing with the level of difficulty.
 
 To run, download the present files; be sure to change the path where the libraries libg2.a and libX11.a are located in the makefile; then type "make" in the command line open in the right file.
+
+The Makefile creates the executable "jogo".
+Run "./jogo" to start the game.
